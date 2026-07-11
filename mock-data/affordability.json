@@ -1,0 +1,19 @@
+{
+  "affordabilityByCase": [
+    { "caseId": "case-001", "monthlyIncome": 8300, "monthlyDebt": 2656, "dtiRatio": 0.32, "verdict": "PASS", "notes": null },
+    { "caseId": "case-002", "monthlyIncome": 4100, "monthlyDebt": 1230, "dtiRatio": 0.30, "verdict": "PASS", "notes": null },
+    { "caseId": "case-003", "monthlyIncome": 6500, "monthlyDebt": 2015, "dtiRatio": 0.31, "verdict": "PASS", "notes": null },
+    { "caseId": "case-004", "monthlyIncome": 7400, "monthlyDebt": 2664, "dtiRatio": 0.36, "verdict": "PASS", "notes": null },
+    { "caseId": "case-005", "monthlyIncome": 7000, "monthlyDebt": 2100, "dtiRatio": 0.30, "verdict": "PASS", "notes": null },
+    {
+      "caseId": "case-006",
+      "monthlyIncome": 6100,
+      "monthlyDebt": 2501,
+      "dtiRatio": 0.41,
+      "verdict": "MANUAL_REVIEW",
+      "notes": "DTI above standard threshold, driven by variable bonus income. Requires underwriter judgement."
+    },
+    { "caseId": "case-007", "monthlyIncome": 8000, "monthlyDebt": 2400, "dtiRatio": 0.30, "verdict": "PASS", "notes": null },
+    { "caseId": "case-008", "monthlyIncome": 5000, "monthlyDebt": 1550, "dtiRatio": 0.31, "verdict": "PASS", "notes": null }
+  ]
+}

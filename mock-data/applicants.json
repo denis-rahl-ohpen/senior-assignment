@@ -1,0 +1,23 @@
+{
+  "applicants": [
+    { "applicantId": "APP-101", "name": "Joao Silva", "role": "PRIMARY", "monthlyIncome": 5200, "employmentType": "SALARIED" },
+    { "applicantId": "APP-102", "name": "Ines Silva", "role": "CO_APPLICANT", "monthlyIncome": 3100, "employmentType": "SALARIED" },
+
+    { "applicantId": "APP-103", "name": "Marta Costa", "role": "PRIMARY", "monthlyIncome": 4100, "employmentType": "SALARIED" },
+
+    { "applicantId": "APP-104", "name": "Pieter de Vries", "role": "PRIMARY", "monthlyIncome": 3600, "employmentType": "SALARIED" },
+    { "applicantId": "APP-105", "name": "Anke de Vries", "role": "CO_APPLICANT", "monthlyIncome": 2900, "employmentType": "PART_TIME" },
+
+    { "applicantId": "APP-106", "name": "Klaus Richter", "role": "PRIMARY", "monthlyIncome": 7400, "employmentType": "SELF_EMPLOYED" },
+
+    { "applicantId": "APP-107", "name": "Elena Popescu", "role": "PRIMARY", "monthlyIncome": 3800, "employmentType": "SALARIED" },
+    { "applicantId": "APP-108", "name": "Andrei Popescu", "role": "CO_APPLICANT", "monthlyIncome": 3200, "employmentType": "SALARIED" },
+
+    { "applicantId": "APP-109", "name": "Sofia Bianchi", "role": "PRIMARY", "monthlyIncome": 6100, "employmentType": "SELF_EMPLOYED" },
+
+    { "applicantId": "APP-110", "name": "Tomasz Nowak", "role": "PRIMARY", "monthlyIncome": 4700, "employmentType": "SALARIED" },
+    { "applicantId": "APP-111", "name": "Kasia Nowak", "role": "CO_APPLICANT", "monthlyIncome": 3300, "employmentType": "SALARIED" },
+
+    { "applicantId": "APP-112", "name": "Liam O'Sullivan", "role": "PRIMARY", "monthlyIncome": 5000, "employmentType": "SALARIED" }
+  ]
+}

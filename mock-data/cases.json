@@ -1,0 +1,68 @@
+{
+  "cases": [
+    {
+      "caseId": "case-001",
+      "productType": "FIXED_5YR",
+      "requestedLoanAmount": 280000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-02T09:14:00Z",
+      "applicantIds": ["APP-101", "APP-102"]
+    },
+    {
+      "caseId": "case-002",
+      "productType": "VARIABLE",
+      "requestedLoanAmount": 195000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-04T11:02:00Z",
+      "applicantIds": ["APP-103"]
+    },
+    {
+      "caseId": "case-003",
+      "productType": "FIXED_2YR",
+      "requestedLoanAmount": 150000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-05T15:47:00Z",
+      "applicantIds": ["APP-104", "APP-105"]
+    },
+    {
+      "caseId": "case-004",
+      "productType": "FIXED_5YR",
+      "requestedLoanAmount": 410000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-06T08:30:00Z",
+      "applicantIds": ["APP-106"]
+    },
+    {
+      "caseId": "case-005",
+      "productType": "VARIABLE",
+      "requestedLoanAmount": 220000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-08T10:20:00Z",
+      "applicantIds": ["APP-107", "APP-108"]
+    },
+    {
+      "caseId": "case-006",
+      "productType": "FIXED_10YR",
+      "requestedLoanAmount": 340000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-09T13:05:00Z",
+      "applicantIds": ["APP-109"]
+    },
+    {
+      "caseId": "case-007",
+      "productType": "FIXED_5YR",
+      "requestedLoanAmount": 265000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-10T09:41:00Z",
+      "applicantIds": ["APP-110", "APP-111"]
+    },
+    {
+      "caseId": "case-008",
+      "productType": "VARIABLE",
+      "requestedLoanAmount": 288000,
+      "stage": "IN_REVIEW",
+      "createdAt": "2026-06-11T16:12:00Z",
+      "applicantIds": ["APP-112"]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "documentsByCase": [
+    {
+      "caseId": "case-001",
+      "documents": [
+        { "documentId": "DOC-1001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-1002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-1003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-1004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-002",
+      "documents": [
+        { "documentId": "DOC-2001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-2002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-2003", "type": "PAYSLIP", "required": true, "status": "MISSING" },
+        { "documentId": "DOC-2004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-003",
+      "documents": [
+        { "documentId": "DOC-3001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-3002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-3003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-3004", "type": "BANK_STATEMENT", "required": true, "status": "UPLOADED" }
+      ]
+    },
+    {
+      "caseId": "case-004",
+      "documents": [
+        { "documentId": "DOC-4001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-4002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-4003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-4004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-005",
+      "documents": [
+        { "documentId": "DOC-5001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-5002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-5003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-5004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-006",
+      "documents": [
+        { "documentId": "DOC-6001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-6002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-6003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-6004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-007",
+      "documents": [
+        { "documentId": "DOC-7001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-7002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-7003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-7004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    },
+    {
+      "caseId": "case-008",
+      "documents": [
+        { "documentId": "DOC-8001", "type": "ID", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-8002", "type": "PROOF_OF_ADDRESS", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-8003", "type": "PAYSLIP", "required": true, "status": "VERIFIED" },
+        { "documentId": "DOC-8004", "type": "BANK_STATEMENT", "required": true, "status": "VERIFIED" }
+      ]
+    }
+  ]
+}

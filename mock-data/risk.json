@@ -1,0 +1,30 @@
+{
+  "riskByCase": [
+    { "caseId": "case-001", "riskScore": 12, "flags": [] },
+    { "caseId": "case-002", "riskScore": 9, "flags": [] },
+    { "caseId": "case-003", "riskScore": 15, "flags": [] },
+    {
+      "caseId": "case-004",
+      "riskScore": 68,
+      "flags": [
+        { "flagId": "FLAG-4001", "type": "AML", "severity": "MEDIUM", "status": "OPEN", "note": null }
+      ]
+    },
+    {
+      "caseId": "case-005",
+      "riskScore": 25,
+      "flags": [
+        {
+          "flagId": "FLAG-5001",
+          "type": "INCOME_INCONSISTENCY",
+          "severity": "LOW",
+          "status": "ACKNOWLEDGED",
+          "note": "Confirmed with applicant - seasonal income variation. - M. Teixeira, underwriter"
+        }
+      ]
+    },
+    { "caseId": "case-006", "riskScore": 18, "flags": [] },
+    { "caseId": "case-007", "riskScore": 11, "flags": [] },
+    { "caseId": "case-008", "riskScore": 14, "flags": [] }
+  ]
+}

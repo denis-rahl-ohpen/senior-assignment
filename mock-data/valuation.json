@@ -1,0 +1,19 @@
+{
+  "valuationByCase": [
+    { "caseId": "case-001", "status": "COMPLETED", "propertyValue": 320000, "requestedLoanAmount": 280000, "ltv": 0.875 },
+    { "caseId": "case-002", "status": "COMPLETED", "propertyValue": 260000, "requestedLoanAmount": 195000, "ltv": 0.75 },
+    { "caseId": "case-003", "status": "COMPLETED", "propertyValue": 210000, "requestedLoanAmount": 150000, "ltv": 0.714 },
+    { "caseId": "case-004", "status": "COMPLETED", "propertyValue": 505000, "requestedLoanAmount": 410000, "ltv": 0.812 },
+    { "caseId": "case-005", "status": "COMPLETED", "propertyValue": 295000, "requestedLoanAmount": 220000, "ltv": 0.746 },
+    { "caseId": "case-006", "status": "COMPLETED", "propertyValue": 386000, "requestedLoanAmount": 340000, "ltv": 0.881 },
+
+    {
+      "caseId": "case-007",
+      "status": "ERROR",
+      "errorCode": "UPSTREAM_TIMEOUT",
+      "message": "Valuation service did not respond within SLA."
+    },
+
+    { "caseId": "case-008", "status": "COMPLETED", "propertyValue": 320000, "requestedLoanAmount": 288000, "ltv": 0.90 }
+  ]
+}
